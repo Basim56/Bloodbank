@@ -1,0 +1,72 @@
+[
+    {"antecedents": "Parent2_A", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Parent2_AB", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Parent2_B", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Parent2_O", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Child_A", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Child_AB", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Child_B", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Child_O", "consequents": "Parent1_A", "confidence": 1.0},
+    {"antecedents": "Parent2_O", "consequents": "Child_A", "confidence": 1.0},
+    {
+      "antecedents": "Child_A, Parent2_A",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_A, Child_O",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_AB, Child_A",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_AB, Child_AB",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_AB, Child_B",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Child_A, Parent2_B",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_B, Child_AB",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_B, Child_B",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_B, Child_O",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_O, Parent1_A",
+      "consequents": "Child_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_O, Child_A",
+      "consequents": "Parent1_A",
+      "confidence": 1.0
+    },
+    {
+      "antecedents": "Parent2_O",
+      "consequents": "Parent1_A, Child_A",
+      "confidence": 1.0
+    }
+  ]
+  
